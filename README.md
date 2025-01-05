@@ -2,7 +2,7 @@
 
 Welcome to the **Plant Disease Recognition System**! This project leverages deep learning to identify various plant diseases from images. Using a Convolutional Neural Network (CNN) model trained on a comprehensive dataset, this system provides accurate predictions to help protect crops and maintain healthier harvests.
 
-## Hosted link: https://plantdiseasepredictiondemo.streamlit.app/
+## Hosted link: **https://plantdiseasepredictiondemo.streamlit.app/**
 
 ## Project Description
 

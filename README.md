@@ -78,6 +78,20 @@ The training process took 5 epochs, with the following results:
 - Training Accuracy: 83.91%
 - Validation Accuracy: 86.25%
 
+## Screenshots
+
+- **Dashboard 1:**
+  ![dasboard1](screenshots/dashboard1.png)
+
+- **Dashboard 2:**
+  ![dashboard2](screenshots/dashboard2.png)
+
+- **Upload Image:**
+  ![image-upload](screenshots/image-upload.png)
+
+- **Output:**
+  ![Output](screenshots/output.png)
+  
 ## Conclusion
 
 The **Plant Disease Recognition System** successfully demonstrates how machine learning can be used to identify and classify plant diseases based on images. With the help of a Convolutional Neural Network (CNN), we were able to achieve impressive model accuracy, making this tool a reliable and efficient solution for plant health diagnosis.
